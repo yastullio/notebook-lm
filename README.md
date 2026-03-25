@@ -1,7 +1,9 @@
 # Contexto e objetivos
 O assunto de interesse selecionado para o desafio foram os impactos da inteligência artificial nas salas de aula. O motivo da escolha do tema foi o fato de eu já ter me visto dos dois lados, como aluna e professora, enxergando os ganhos e os desafios que essa tecnologia pode trazer aos estudos e a vivência em sala de aula.
 
-# Curadoria de fontes
+# Fontes
+As fontes utilizadas como base incluem materiais de vídeo, artigos, matérias e documentos relacionados ao assunto de interesse. Abaixo, seguem três exemplos de fontes selecionadas e linkadas na ferramenta.
+
 [Ensino começa a integrar inteligência artificial no Brasil; especialistas veem oportunidade, mas com riscos](https://g1.globo.com/politica/noticia/2025/01/31/ensino-comeca-a-integrar-inteligencia-artificial-no-brasil-especialistas-veem-oportunidade-mas-com-riscos.ghtml)
 
 [Referencial para desenvolvimento e uso responsáveis de inteligência artificial na educação](https://www.gov.br/mec/pt-br/media/segape/referencial-oficial-pt.pdf)
